@@ -1,0 +1,14 @@
+(.devops_p4) upparas@DESKTOP-LNFBJS2:~/udacity-devops-p4$ kubectl port-forward udacitydevops 8000:80
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
+upparas@DESKTOP-LNFBJS2:~/udacity-devops-p4$ curl localhost:8000
+<h3>Sklearn Prediction Home</h3>upparas@DESKTOP-LNFBJS2:~/udacity-devops-p4$ ./make_prediction.Unix.sh --clang-compl./make_prediction.Unix.sh --clang-completer
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
