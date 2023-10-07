@@ -3,9 +3,15 @@ from flask.logging import create_logger
 import logging
 
 import pandas as pd
-from sklearn.externals import joblib
-#  import joblib
+# from sklearn.externals import joblib
+import joblib
 from sklearn.preprocessing import StandardScaler
+
+from sklearn.ensemble import RandomForestClassifier
+# Assuming clf is a RandomForestClassifier
+clf = RandomForestClassifier()
+# clf.fit(training_data, training_labels)
+
 
 app = Flask(__name__)
 LOG = create_logger(app)
