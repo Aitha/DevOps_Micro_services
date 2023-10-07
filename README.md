@@ -1,7 +1,7 @@
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/sateeshfrnd/udacity-devops-p4/1/workflows/deee5982-1fce-4950-a264-e93c4926549d)
 
-## Project Overview
+## Project Overview:
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
