@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath="satishdockers/udacitydevops_p4:v1.0.0"
+dockerpath="aitha/udacitydevops_p4:v1.0.0"
 
 # Step 2
 # Run the Docker Hub container with kubernetes
