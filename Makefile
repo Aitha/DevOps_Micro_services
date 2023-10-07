@@ -1,7 +1,7 @@
 setup:
 	# Create python virtualenv & source it
-	# source ~/.devops_p4/bin/activate
-	python3 -m venv ~/.devops_p4
+	# source ~/.devops/bin/activate
+	python3 -m venv ~/.devops
 
 
 
