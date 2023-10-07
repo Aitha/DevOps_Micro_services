@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="satishdockers/udacitydevops_p4:v1.0.0"
+dockerpath="aitha/udacitydevops_p4:v1.0.0"
 
 # Step 2:  
 # Authenticate & tag
